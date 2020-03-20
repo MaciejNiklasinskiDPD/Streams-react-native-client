@@ -1,0 +1,22 @@
+{
+    "googleIOS": {
+        "issuer": "https://accounts.google.com/",
+        "clientId": "616517486285-g0fq79gfv39r7srdck11c4jm75sar1p4.apps.googleusercontent.com",
+        "redirectUrl": "com.googleusercontent.apps.616517486285-g0fq79gfv39r7srdck11c4jm75sar1p4:/oauth2redirect/google",
+        "scopes": [
+            "profile",
+            "email"
+        ]
+    },
+    "googleAndroid": {
+        "issuer": "https://accounts.google.com/",
+        "clientId": "616517486285-7qtsmcuahhkabrdvgqa283h2qj7a9lcc.apps.googleusercontent.com",
+        "redirectUrl": "com.googleusercontent.apps.616517486285-7qtsmcuahhkabrdvgqa283h2qj7a9lcc:/oauth2redirect/google",
+        "scopes": [
+            "profile",
+            "email"
+        ]
+    },
+    "googleVerificationURL": "https://oauth2.googleapis.com/tokeninfo?id_token=",
+    "facebookVerificationURL": "https://graph.facebook.com/v6.0/me?method=get&pretty=0&sdk=joey&suppress_http_code=1&fields=id%2Cname%2Cemail&access_token="
+}
